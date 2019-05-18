@@ -1,0 +1,67 @@
+﻿@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/*NAVIGATION BAR*/
+
+nav{
+	width:100%;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+nav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+
+nav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+nav a:active {
+	background-color: white;
+	color: white;
+}
+
+nav .icon {
+	display: none;
+}
+
+
+/* Responsive navigation menu (for mobile devices) */
+@media (max-width: 600px) {
+
+
+	.folded a {
+		display: none;
+	}
+
+	nav a.icon {
+		float: right;
+		display: block;
+	}
+
+	.unfolded .icon {
+		position:absolute;
+		right: 0;
+		top: 0;
+	}
+
+	.unfolded a {
+		float: none;
+		display: block;
+		text-align: left;
+	}
+}

@@ -1,0 +1,17 @@
+File/Source Name: 	job.png
+Location:		U+Ni/Content/job.png
+Source(s):	https://www.flaticon.com/free-icon/employee_912316#term=job&page=1&position=1
+
+
+File/Source Name: 	university.png
+Location:		U+Ni/Content/university.png
+Source(s):	https://www.flaticon.com/free-icon/cap_1157085
+
+File/Source Name: 	statistic.png
+Location:		U+Ni/Content/statistic.png
+Source(s):	https://www.flaticon.com/free-icon/pie-chart_126484#term=pie%20chart&page=1&position=1
+
+
+File/Source Name: 	main.css (From 'Search bar (see sources.txt)' to 'End of search bar (see sources.txt)')
+Location:		U+Ni/Styles/main.css
+Source(s):		https://webdesign.tutsplus.com/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069
